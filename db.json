@@ -1,9 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "code" }
+   "posts": [   {
+      "id": 1,
+      "title": "json-server",
+      "author": "panjane"
+   }],
+   "comments": [   {
+      "id": 1,
+      "body": "I am from India",
+      "postId": 1
+   }],
+   "profile": {"panjane": "007"}
 }
